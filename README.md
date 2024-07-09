@@ -1,4 +1,4 @@
-# Project Name
+#  Minigram
 
 Brief description or overview of what your project does.
 
